@@ -1,3 +1,12 @@
+/*Advantages
+
+1. Any node can be starting point
+2. Only one pointer needed(last) where in general we need two head and tail
+3. It is commonly used by operating system where applications are put in a list and traversed giving time to each of them to execute before going to next one and cycling again.
+
+*/
+
+
 #include<bits/stdc++.h>
 
 using namespace std;
